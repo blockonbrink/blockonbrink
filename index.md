@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: Who are us
+layout: Home
 ---
 
 # WELCOME SECURITY ENTUSIAST
