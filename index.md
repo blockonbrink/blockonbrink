@@ -1,6 +1,8 @@
 ---
 title: Home
-layout: Home
+layout: default
+nav_order: 1
+permalink: /
 ---
 
 # WELCOME SECURITY ENTUSIAST
