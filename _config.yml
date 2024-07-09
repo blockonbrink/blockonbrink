@@ -73,3 +73,10 @@ callouts:
   attention:
     title: Attention
     color: purple
+
+
+  exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - assets/css/just-the-docs-switchable-src.css
