@@ -6,6 +6,8 @@ nav_enabled: true
 permalink: /
 ---
 
+<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Dark theme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Light theme'; } }); </script>
+
 ## WELCOME SECURITY ENTUSIAST
 
 Welcome to this space dedicated to hacking and blockchain, I am Gekk, and my 2 great hobbies are Cybersecurity and Blockchain, one is my job today, and the second is my hobby, I invite you to join this community, where I will be sharing my learning in cybersecurity and try to link this knowledge to blockchain whenever possible.
