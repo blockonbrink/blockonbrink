@@ -1,10 +1,3 @@
----
-title: Home
-layout: default
-nav_order: 1
-nav_enabled: true
-permalink: /
----
 
 
 ## WELCOME SECURITY ENTUSIAST
@@ -20,9 +13,9 @@ I created this community to share content with 2 objectives, one is to continue 
 ----
 
 
-[Discord](https://discord.gg/3HDH5B9uqD){: .btn .btn-purple.mr-2 }
-[Follow us on X](https://x.com/blockonbrink){: .btn .btn-grey-dk.mr-2 }
-[GitHub](https://wanderjosea.github.io/BOB/){: .btn .btn-blue.mr-2 }
-[Galaxis Community](https://wanderjosea.github.io/BOB/){: .btn .btn-outline.mr-2 }
+[Discord](https://discord.gg/3HDH5B9uqD)
+[Follow us on X](https://x.com/blockonbrink)
+[GitHub](https://wanderjosea.github.io/BOB/)
+[Galaxis Community](https://wanderjosea.github.io/BOB/)
 
 
