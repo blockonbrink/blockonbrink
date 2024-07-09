@@ -1,7 +1,7 @@
 title: Block On Brink
 description: Cibersecurity, Blockchain and coffe
 theme: just-the-docs
-url: https://wanderjosea.github.io/ontheblockedge.github.io/
+url: https://github.com/wanderjosea/BOB/
 
 #aux_links:
 #   Galaxis: https://wanderjosea.github.io/BOB/
@@ -77,6 +77,4 @@ callouts:
 
   exclude:
   - README.md
-  - Gemfile
-  - Gemfile.lock
   - assets/css/just-the-docs-switchable-src.css
