@@ -4,8 +4,8 @@ theme: just-the-docs
 permalink: pretty
 url: https://wanderjosea.github.io/ontheblockedge.github.io/
 
-aux_links:
-   Repository: https://wanderjosea.github.io/ontheblockedge.github.io/
+#aux_links:
+#   Galaxis: https://wanderjosea.github.io/BOB/
 
 
 #logo
