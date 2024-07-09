@@ -9,7 +9,6 @@ permalink: /
 
 Welcome to this space dedicated to hacking and blockchain, I am Gekk, and my 2 great hobbies are Cybersecurity and Blockchain, one is my job today, and the second is my hobby, I invite you to join this community, where I will be sharing my learning in cybersecurity and try to link this knowledge to blockchain whenever possible.
 
-TEST
 
 ## What is Block on Brink 
 
@@ -18,12 +17,10 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ----
 
-[Link button](https://x.com/blockonbrink){: .btn .btn-green }
-[Link button](https://x.com/blockonbrink){: .btn .btn-green }
-[Link button](https://x.com/blockonbrink){: .btn .btn-green }
-[Link button](https://x.com/blockonbrink){: .btn .btn-green }
-[GitHub]: https://wanderjosea.github.io/ontheblockedge.github.io/
-[Discord]: https://discord.gg/3HDH5B9uqD
-[Galaxis Community]: Comming Soon..
+[Discord](https://discord.gg/3HDH5B9uqD){: .btn .btn-purple }
+[Follow us on X](https://x.com/blockonbrink){: .btn .btn-black }
+[GitHub](https://wanderjosea.github.io/BOB/){: .btn .btn-blue }
+[Galaxis Community](https://wanderjosea.github.io/BOB/){: .btn .btn-outline }
+
 
 
