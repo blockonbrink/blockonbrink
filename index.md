@@ -18,10 +18,10 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ----
 
+
 [Discord](https://discord.gg/3HDH5B9uqD){: .btn .btn-purple }
-[Follow us on X](https://x.com/blockonbrink){: .btn .btn-black }
+[Follow us on X](https://x.com/blockonbrink){: .btn .btn-grey-dk }
 [GitHub](https://wanderjosea.github.io/BOB/){: .btn .btn-blue }
 [Galaxis Community](https://wanderjosea.github.io/BOB/){: .btn .btn-outline }
-
 
 
