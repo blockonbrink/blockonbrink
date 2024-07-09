@@ -5,8 +5,8 @@ nav_order: 1
 nav_enabled: true
 permalink: /
 ---
-BUTTON
-<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Dark theme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Light theme'; } }); </script>
+
+[BUTTON](<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Dark theme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Light theme'; } }); </script>){: .btn .btn-purple.mr-2 }
 
 ## WELCOME SECURITY ENTUSIAST
 
