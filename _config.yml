@@ -8,11 +8,11 @@ url: https://wanderjosea.github.io/ontheblockedge.github.io/
 
 
 #logo
-logo: "/assets/images/BOB.png"
+logo: "/assets/images/BOB.svg"
 
 
 #Color Scheme
-color_scheme: dark
+color_scheme: nil
 
 
 # Enable or disable the site search
@@ -48,3 +48,28 @@ search:
 enable_copy_code_button: true
 
 
+callouts:
+  warning:
+    title: Warning
+    color: yellow
+  hint:
+    title: Hint
+    color: grey-lt
+  important:
+    title: Important
+    color: green
+  note:
+    title: Note
+    color: grey-dk
+  tip:
+    title: Tip
+    color: blue
+  caution:
+    title: Caution
+    color: red
+  error:
+    title: Error
+    color: pink
+  attention:
+    title: Attention
+    color: purple
