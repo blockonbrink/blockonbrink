@@ -8,6 +8,10 @@ aux_links:
    Repository: https://wanderjosea.github.io/ontheblockedge.github.io/
 
 
+#logo
+logo: "/assets/images/BOB.png"
+
+
 #Color Scheme
 color_scheme: dark
 
