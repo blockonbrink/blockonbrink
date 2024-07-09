@@ -8,6 +8,9 @@ aux_links:
    Repository: https://wanderjosea.github.io/ontheblockedge.github.io/
 
 
+#Color Scheme
+color_scheme: dark
+
 
 # Enable or disable the site search
 # Supports true (default) or false
