@@ -11,7 +11,7 @@ Welcome to this space dedicated to hacking and blockchain, I am Gekk, and my 2 g
 {: .fs-6 .fw-300 }
 
 [Follow Us on X](https://x.com/blockonbrink){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Join to Discord][https://discord.gg/3HDH5B9uqD]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Join to Discord](https://discord.gg/3HDH5B9uqD){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
