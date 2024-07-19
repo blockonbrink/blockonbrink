@@ -22,7 +22,7 @@ I created this community to share content with 2 objectives, one is to continue 
 
 [Discord](https://discord.gg/3HDH5B9uqD){: .btn .btn-purple.mr-2 }
 [Follow us on X](https://x.com/blockonbrink){: .btn .btn-grey-dk.mr-2 }
-[GitHub](https://wanderjosea.github.io/BOB/){: .btn .btn-blue.mr-2 }
-[Galaxis Community](https://wanderjosea.github.io/BOB/){: .btn .btn-outline.mr-2 }
+[GitHub](https://github.com/blockonbrink/blockonbrink){: .btn .btn-blue.mr-2 }
+[Galaxis Community(Comming Soon)](#){: .btn .btn-outline.mr-2 }
 
 
