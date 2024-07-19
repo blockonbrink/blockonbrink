@@ -80,7 +80,5 @@ mathjax:
 
 exclude:
   - README.md
-  - Gemfile
-  - Gemfile.lock
   - assets/css/just-the-docs-switchable-src.css
   - serve
