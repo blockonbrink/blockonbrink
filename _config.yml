@@ -2,7 +2,7 @@ title: Block On Brink
 description: Cibersecurity, Blockchain and coffe
 theme: just-the-docs
 url: https://github.com/blockonbrink/blockonbrink
-
+baseurl: "/blockonbrink" 
 
 #logo
 logo: "/assets/images/BOB.png"
