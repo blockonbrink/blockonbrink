@@ -8,7 +8,7 @@ Welcome to this space dedicated to hacking and blockchain, I am Gekk, and my 2 g
 ## What is Block on Brink 
 
 I created this community to share content with 2 objectives, one is to continue my apprenticeship in cybersecurity, explaining a content is the best way to master it, and I want this to be the place where I can share it for free with the community, and another is, to start a community of people who share my interests for cybersecurity and blockchain.
-
+-----
 
 ----
 
