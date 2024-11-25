@@ -7,10 +7,9 @@ baseurl: "/blockonbrink"
 #logo
 logo: "/assets/images/BOB.png"
 
-
-#Color Scheme
-color_scheme: nil
-
+#scheme
+just_the_docs:
+  color_scheme: "dark" 
 
 # Enable or disable the site search
 # Supports true (default) or false
