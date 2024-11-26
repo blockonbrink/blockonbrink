@@ -19,6 +19,13 @@ I created this community to share content with 2 objectives, one is to continue 
 
 ----
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
+    </li>
+  {% endfor %}
+</ul>
 
 [Discord](https://discord.gg/3HDH5B9uqD){: .btn .btn-purple.mr-2 }
 [Follow us on X](https://x.com/blockonbrink){: .btn .btn-grey-dk.mr-2 }
