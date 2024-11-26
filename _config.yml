@@ -79,6 +79,5 @@ mathjax:
 
 
 exclude:
-  - README.md
   - assets/css/just-the-docs-switchable-src.css
   - serve
