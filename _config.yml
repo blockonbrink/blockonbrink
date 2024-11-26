@@ -1,15 +1,16 @@
 title: Block On Brink 
 description: Cibersecurity, Blockchain and coffe
 theme: just-the-docs
-url: "https://www.blockonbrink.xyz"
+url: https://github.com/blockonbrink/blockonbrink
 baseurl: "/" 
 
 #logo
 logo: "/assets/images/BOB.png"
 
-#scheme
-just_the_docs:
-  color_scheme: "dark" 
+
+#Color Scheme
+color_scheme: dark
+
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -78,5 +79,6 @@ mathjax:
 
 
 exclude:
+  - README.md
   - assets/css/just-the-docs-switchable-src.css
   - serve
