@@ -17,17 +17,10 @@ GEM
     google-protobuf (4.28.3-arm64-darwin)
       bigdecimal
       rake (>= 13)
-<<<<<<< HEAD
     google-protobuf (4.28.3-x64-mingw-ucrt)
       bigdecimal
       rake (>= 13)
     google-protobuf (4.28.3-x86_64-linux)
-=======
-    google-protobuf (4.28.0-x64-mingw-ucrt)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.28.0-x86_64-linux)
->>>>>>> Develop
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
